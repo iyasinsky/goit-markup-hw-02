@@ -25,7 +25,7 @@ body {
   text-decoration: none;
 }
 
-.header-area {
+.page-header {
   font-weight: 500;
   font-size: inherit;
   line-height: 1.14;
@@ -151,7 +151,7 @@ body {
 }
 
 /* Footer section*/
-.footer-area {
+.page-footer {
   background-color: var(--hero-color);
 }
 
